@@ -3,7 +3,7 @@
 
 Esse princípio declara que uma classe deve ter um, e somente um, motivo para mudar.
 
-Seguindo este princípio foi realizado um exemplo sobre compra de produtos.
+Seguindo esse princípio foi realizado um exemplo sobre compra de produtos.
 
 Nesse exemplo separei cada classe com uma única responsabilidade sendo:
 
