@@ -1,6 +1,6 @@
 package dip;
 
-public class Lampada implements Dispositivo{
+public class Ventilador implements Dispositivo {
     private boolean ligado;
 
     @Override
@@ -11,8 +11,6 @@ public class Lampada implements Dispositivo{
     @Override
     public void setLigado(boolean ligado) {
         this.ligado = ligado;
-
-        
     }
 
     @Override
@@ -25,13 +23,12 @@ public class Lampada implements Dispositivo{
 
     @Override
     public void Ligar() {
-        System.out.println("Ligado!");
+        System.out.println("Ventilador - Ligado!");
     }
 
     @Override
     public void Desligar() {
-        System.out.println("Desligado!");
+        System.out.println("Ventilador - Desligado!");
     }
-  
-    
+
 }
