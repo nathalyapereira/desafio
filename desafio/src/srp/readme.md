@@ -1,5 +1,6 @@
 # Princípio da Responsabilidade Única (Single Responsibility Principle)
 
+
 Esse princípio declara que uma classe deve ter um, e somente um, motivo para mudar.
 
 Seguindo esse princípio foi realizado um exemplo sobre compra de produtos.
